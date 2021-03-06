@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T02:44:18.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="tjDPw6KfuFOjFGj-4CEg" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-06T02:48:29.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Lef7ZQTuokjxlL7T9IPF" version="14.4.3" type="github" pages="3">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="1422" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KR2GZfbOzbUdG0_TTxuq" name="Page-2">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eFOrSExq6CK0ts5UjtNN-0" />
         <mxCell id="eFOrSExq6CK0ts5UjtNN-1" parent="eFOrSExq6CK0ts5UjtNN-0" />
@@ -399,11 +399,14 @@
         <mxCell id="WiQnFg71IerMg16deOx3-0" value="Q Inverted&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="eFOrSExq6CK0ts5UjtNN-1">
           <mxGeometry x="1147" y="375" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ts_6V0hGlCXK0uQnIih6-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Gated D Latch&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="eFOrSExq6CK0ts5UjtNN-1">
+          <mxGeometry x="547" width="170" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="HpW57M6hSphQ8u70mHlG" name="Page-3">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-6reZMAF0R6trZO_Xp_5-0" />
         <mxCell id="-6reZMAF0R6trZO_Xp_5-1" parent="-6reZMAF0R6trZO_Xp_5-0" />
@@ -526,6 +529,9 @@
         </mxCell>
         <mxCell id="AeY6H85lmqAlkR_gRxkV-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" vertex="1" parent="-6reZMAF0R6trZO_Xp_5-1">
           <mxGeometry x="100" y="570" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1Huysz7fii5CqrBYdWUj-0" value="&lt;font style=&quot;font-size: 23px&quot;&gt;T Flip-Flop&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="-6reZMAF0R6trZO_Xp_5-1">
+          <mxGeometry x="440" y="-9.999999999999993" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
